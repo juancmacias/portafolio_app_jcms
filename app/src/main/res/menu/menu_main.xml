@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jcms.juancarlosmacias.MainActivity.MainActivity">
+    <item
+        android:id="@+id/menuinicio"
+        android:title="@string/inicio" />
+    <item
+        android:id="@+id/list"
+        android:title="@string/v_list" />
+    <item
+        android:id="@+id/menupolitica"
+        android:title="@string/politica" />
+</menu>

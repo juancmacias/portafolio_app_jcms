@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portafolio de Juan Carlos</string>
+    <string name="inicio">Inicio</string>
+    <string name="politica">Politica</string>
+    <string name="v_list">Mis trabajos</string>
+</resources>

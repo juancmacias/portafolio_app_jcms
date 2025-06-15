@@ -1,0 +1,74 @@
+# Juan Carlos Macías Salvador
+
+Madrid, 28019 • Tel: 618309775 • juancmaciassalvador@gmail.com • [LinkedIn](https://www.linkedin.com/in/juancarlosmacias/) • [GitHub](https://github.com/juancmacias) • [Portfolio](http://www.juancarlosmacias.es/)
+
+---
+
+## 🔎 Resumen profesional
+
+Desarrollador Full Stack y especialista en MLOps con experiencia en sectores como salud, electrónica y startups. Combinando una sólida base en desarrollo web/móvil con habilidades en machine learning y una pasión por la innovación. Orientado a la mejora continua, el trabajo en equipo y la experiencia del usuario.
+
+---
+
+## 💼 Experiencia profesional
+
+**Desarrollador Full Stack & MLOps**  
+Freelance / Proyectos personales — 2015 - 2025
+- Creación de modelos ML (binarios y multiclase) para Phishing y salud.
+- Desarrollo de apps con Java, Android SDK, JavaScript, PHP y SQL.
+- Proyecto Konglu.es (equipo médico, docente): app para seguimiento glucémico y deportivo personalizado.
+- Finalista We The Humans & La Nave — 2019
+- Proyecto IA ética (Normativa Europea), ecosistema IBM y aceleradora startups.
+
+**Desarrollador Web y Apps**  
+Diversos desarrollos (colegios públicos, SAT, PYME)
+- Frontend y Backend con HTML, CSS, jQuery, JavaScript, PHP, APIs de Google.
+
+**Técnico electrónico**  
+Fokus Reparaciones, Fnac, MediaMarkt — 2000-2021
+- Reparación de equipos electrónicos (fotografía, audio, ordenadores, otros).
+- Gestión/reparación de siniestros, más de 400/mes a nivel nacional.
+
+---
+
+## 🎓 Formación
+
+- Bootcamp Inteligencia Artificial — Factoría F5, UE, / ene. 2025 — 1250 horas
+- Certificado Profesionalidad IFCD0049 — Desarrollo de IA aplicada / dic. 2024 — 150 horas
+- Ciberseguridad (Extensión Univ.) — Samsung Dev Spain / Univ. Málaga / feb. 2024 — 150 horas
+- Desarrollo Web Full Stack Inmersivo — Ayto. de Madrid, Fund. Tomillo / feb. 2023 — 1000 horas
+- Certificado Profesionalidad IFCD0112 — POO y BBDD relacionales / dic. 2021 — 710 horas
+- Otros certificados: Patrones de Software, Java Web
+
+---
+
+## 🚀 Habilidades técnicas
+
+- Lenguajes: Python, Java, PHP, JavaScript, SQL
+- Frameworks y entornos: React, Node.js, Android SDK, FastAPI, Pandas, Tizen
+- Bases de datos: SQL, PostgreSQL, MongoDB
+- DevOps: Docker, Git, GitHub
+- Otros: API REST, Web scraping, LLMs, UX/UI, Linux
+
+---
+
+## 📚 Idiomas
+
+- Español: Nativo
+- Inglés: Técnico (lectura y escritura)
+- Alemán: Básico
+
+---
+
+## 📍 Voluntariado
+
+- CiberVoluntarios (2023 - Actualidad)
+- WeSumPlus (2021 - 2022)
+- SmartAerogenerador (2020)
+- CEIP Barcelona Madrid (2020)
+
+---
+
+## 🎭 Hobbies
+
+Carrera 10K, senderismo, viajar, lectura, Arduino, Lego, Raspberry

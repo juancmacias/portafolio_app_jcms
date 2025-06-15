@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Portafolio de Juan Carlos</string>
+    <string name="inicio">Inicio</string>
+    <string name="politica">Política</string>
+    <string name="v_list">Mís trabajos</string>
+    <string name="name" translatable="false">Juan Carlos Macías Salvador</string>
+    <string name="localidad" translatable="false">Madrid</string>
+    <string name="telefono" translatable="false">618309775</string>
+    <string name="email" translatable="false">juancmaciassalvador@gmail.com</string>
+    <string name="linkedin" translatable="false">https://www.linkedin.com/in/juancarlosmacias/</string>
+    <string name="github" translatable="false">https://github.com/juancmacias</string>
+    <string name="porfolio" translatable="false">https://www.juancarlosmacias.es/</string>
+</resources>
