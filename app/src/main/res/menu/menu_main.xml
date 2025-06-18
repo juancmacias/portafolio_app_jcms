@@ -1,7 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.jcms.juancarlosmacias.MainActivity.MainActivity">
+    xmlns:tools="http://schemas.android.com/tools">
     <item
         android:id="@+id/menuinicio"
         android:title="@string/inicio" />
@@ -11,4 +10,7 @@
     <item
         android:id="@+id/menupolitica"
         android:title="@string/politica" />
+    <item
+        android:id="@+id/contactar"
+        android:title="@string/contact" />
 </menu>

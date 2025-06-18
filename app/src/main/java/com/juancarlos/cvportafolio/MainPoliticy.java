@@ -11,17 +11,17 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import com.juancarlos.cvportafolio.app.AppConfig;
+import com.juancarlos.cvportafolio.app.BaseActivity;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class MainPoliticy extends AppCompatActivity {
+public class MainPoliticy extends BaseActivity {
 
 
     @Override
@@ -67,32 +67,6 @@ public class MainPoliticy extends AppCompatActivity {
             e.printStackTrace();
         }
     }
-
-
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        if(item.getItemId() == R.id.menuinicio){
-            Intent intent = new Intent(this, MainActivity.class);
-            startActivity(intent);
-        }else if(item.getItemId() == R.id.menupolitica) {
-            Intent intent = new Intent(this, MainPoliticy.class);
-            startActivity(intent);
-        }else if(item.getItemId() == R.id.list){
-            Intent intent = new Intent(this, ListActivity.class);
-            startActivity(intent);
-        }else{
-            return super.onOptionsItemSelected(item);
-        }
-        return true;
-    }
-
 
 
 }

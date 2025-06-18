@@ -4,4 +4,12 @@
     <string name="inicio">Inicio</string>
     <string name="politica">Politica</string>
     <string name="v_list">Mis trabajos</string>
+    <string name="titulo">Contactar con Juan Carlos</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="enviado">Mensaje enviado correctamente</string>
+    <string name="noenviado">Por favor completa todos los campos</string>
+    <string name="contact">Contactar</string>
 </resources>

@@ -4,4 +4,11 @@
     <string name="inicio">Start</string>
     <string name="politica">Policity</string>
     <string name="v_list">My jobs</string>
+    <string name="titulo">Contact with Juan Carlos</string>
+    <string name="nombre">Name</string>
+    <string name="correo">E-mail</string>
+    <string name="mensaje">Message</string>
+    <string name="enviar">Send</string>
+    <string name="enviado">Message sent successfully</string>
+    <string name="noenviado">Please complete all fields</string>
 </resources>

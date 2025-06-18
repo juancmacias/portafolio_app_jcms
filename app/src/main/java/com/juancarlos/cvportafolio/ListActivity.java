@@ -21,8 +21,9 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 import com.juancarlos.cvportafolio.app.AppConfig;
+import com.juancarlos.cvportafolio.app.BaseActivity;
 
-public class ListActivity extends AppCompatActivity {
+public class ListActivity extends BaseActivity {
     private RecyclerView recyclerView;
     private ItemAdapter adapter;
     private List<Item> itemList = new ArrayList<>();
@@ -79,28 +80,6 @@ public class ListActivity extends AppCompatActivity {
         });
 
         requestQueue.add(request);
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        if(item.getItemId() == R.id.menuinicio){
-            Intent intent = new Intent(this, MainActivity.class);
-            startActivity(intent);
-        }else if(item.getItemId() == R.id.menupolitica) {
-            Intent intent = new Intent(this, MainPoliticy.class);
-            startActivity(intent);
-        }else if(item.getItemId() == R.id.list){
-            Intent intent = new Intent(this, ListActivity.class);
-            startActivity(intent);
-        }else{
-            return super.onOptionsItemSelected(item);
-        }
-        return true;
     }
 
 }

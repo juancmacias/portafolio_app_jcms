@@ -10,4 +10,12 @@
     <string name="linkedin" translatable="false">https://www.linkedin.com/in/juancarlosmacias/</string>
     <string name="github" translatable="false">https://github.com/juancmacias</string>
     <string name="porfolio" translatable="false">https://www.juancarlosmacias.es/</string>
+    <string name="titulo">Contactar con Juan Carlos</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="enviado">Mensaje enviado correctamente</string>
+    <string name="noenviado">Por favor completa todos los campos</string>
+    <string name="contact">Contactar</string>
 </resources>
