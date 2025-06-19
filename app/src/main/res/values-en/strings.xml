@@ -11,4 +11,6 @@
     <string name="enviar">Send</string>
     <string name="enviado">Message sent successfully</string>
     <string name="noenviado">Please complete all fields</string>
+    <string name="contact">Contact</string>
+    <string name="notenviado">It seems that something is not right</string>
 </resources>

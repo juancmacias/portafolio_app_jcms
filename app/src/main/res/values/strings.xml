@@ -16,6 +16,7 @@
     <string name="mensaje">Mensaje</string>
     <string name="enviar">Enviar</string>
     <string name="enviado">Mensaje enviado correctamente</string>
+    <string name="notenviado">Parece que algo no va bien</string>
     <string name="noenviado">Por favor completa todos los campos</string>
     <string name="contact">Contactar</string>
 </resources>

@@ -1,9 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Juancarlosmacias" parent="Theme.Material3.Dark.NoActionBar">
-
+    <style name="Base.Theme.Juancarlosmacias" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorOnPrimary">@color/black</item>
     </style>
-
-
+    <style name="ToolbarPopupTheme" parent="ThemeOverlay.Material3.Light">
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="actionMenuTextColor">@color/black</item>
+        <item name="android:popupBackground">@color/white</item>
+    </style>
     <style name="Theme.Juancarlosmacias" parent="Base.Theme.Juancarlosmacias" />
 </resources>
