@@ -11,8 +11,8 @@ android {
         applicationId = "com.juancarlos.cvportafolio"
         minSdk = 24
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.0.2"
+        versionCode = 3
+        versionName = "1.0.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -55,4 +55,5 @@ dependencies {
     implementation(libs.volley)
     implementation(libs.picasso)
     implementation(libs.recyclerview)
+    implementation("com.google.android.play:core:1.10.3")
 }

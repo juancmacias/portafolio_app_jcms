@@ -19,4 +19,7 @@
     <string name="notenviado">Parece que algo no va bien</string>
     <string name="noenviado">Por favor completa todos los campos</string>
     <string name="contact">Contactar</string>
+    <string name="app_keywords">programador,full stack,metaverso,realidad aumentada,realidad virtual,full-stack,chat gpt,inglés,alemán,MLOps,ml,SML,juan carlos macías</string>
+    <string name="app_description">Desarrollador Full Stack y especialista en MLOps con experiencia en sectores como salud, electrónica y startups.</string>
+    <string name="valorar">Valorame</string>
 </resources>

@@ -13,6 +13,12 @@
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.Juancarlosmacias"
         tools:targetApi="31">
+        <meta-data
+            android:name="keywords"
+            android:resource="@string/app_keywords" />
+        <meta-data
+            android:name="description"
+            android:resource="@string/app_description" />
         <activity
             android:name=".SplashActivity"
             android:exported="true"

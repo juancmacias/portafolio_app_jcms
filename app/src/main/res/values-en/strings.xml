@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Juan Carlos\'s Portfolio</string>
+    <string name="app_name">Juan Carlos Portfolio</string>
     <string name="inicio">Start</string>
     <string name="politica">Policity</string>
     <string name="v_list">My jobs</string>
@@ -13,4 +13,7 @@
     <string name="noenviado">Please complete all fields</string>
     <string name="contact">Contact</string>
     <string name="notenviado">It seems that something is not right</string>
+    <string name="app_keywords">Programmer, full stack, metaverse, augmented reality, virtual reality, full-stack, GPT chat, English, German, MLOps, ML, SML, Juan Carlos Macías</string>
+    <string name="app_description">Full-stack developer and MLOps specialist with experience in sectors such as healthcare, electronics, and startups.</string>
+    <string name="valorar">Evaluate</string>
 </resources>
